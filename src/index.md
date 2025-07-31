@@ -56,12 +56,12 @@ I am a computer scientist, currently doing an internship at the Max Planck Insti
 - [Formalizing Mathematics in Lean](https://utrechtsummerschool.nl/courses/science/formalizing-mathematics-in-lean) at Utrecht Summer School 2025.
 
 - [RIO 2025 Summer School on Informatics](https://rio2025.dc.exa.unrc.edu.ar/):
-  - Program Verification with Isabelle/HOL (10 hours).
-  - Introduction to Computability Theory (10 hours).
-  - Programming Languages for Cybersecurity (10 hours).
+  - Program Verification with Isabelle/HOL.
+  - Introduction to Computability Theory.
+  - Programming Languages for Cybersecurity.
 
 - Participation in [Cornell, Maryland, Max Planck Pre-doctoral Research School 2023](https://cmmrs2023.mpi-sws.org/).
 
-- [Informatics Sciences School 2022](https://eci.dc.uba.ar/ecis-anteriores/eci2022) at University of Buenos Aires in :
-  - Satellite imagery processing (15 hours)
-  - Quantum natural computing: from simulation to algorithms (15 hours).
+- [Informatics Sciences School 2022](https://eci.dc.uba.ar/ecis-anteriores/eci2022) at University of Buenos Aires:
+  - Satellite imagery processing.
+  - Quantum natural computing: from simulation to algorithms.
