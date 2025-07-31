@@ -16,6 +16,8 @@ orcid: 0009-0006-6216-3763
 scholar: https://scholar.google.com/citations?user=CTBwlC8AAAAJ
 # hal: https://hal.science/
 mastodon: https://mastodon.social/@IvanRenison
+instagram: https://www.instagram.com/ivan_renison/
+codeforces: https://codeforces.com/profile/IvanRenison
 github: IvanRenison
 # gitlab: gitlab
 # bitbucket: bitbucket.com

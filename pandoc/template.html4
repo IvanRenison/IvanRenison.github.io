@@ -127,6 +127,16 @@
           <i class="fa-brands fa-mastodon fa-fw"></i>
         </a>
         $endif$
+        $if(instagram)$
+        <a href="$instagram$" title="Instagram">
+          <i class="fa-brands fa-instagram fa-fw"></i>
+        </a>
+        $endif$
+        $if(codeforces)$
+        <a href="$codeforces$" title="Codeforces">
+          <img src="img/CodeforcesLogo.png" alt="Codeforces" style="height: 1em; width: 1em; vertical-align: middle;">
+        </a>
+        $endif$
         $if(bluesky)$
         <a href="$bluesky$" title="BlueSky">
           <i class="fa-brands fa-bluesky fa-fw"></i>
