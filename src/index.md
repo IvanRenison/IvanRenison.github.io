@@ -1,171 +1,65 @@
 ---
-title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
-picture: img/profile.png
-picture-round: false
+title: Iván Renison homepage
+author: Iván Renison
+shortbio: Computer scientist
+description-meta: Computer scientist
+og-url: https://IvanRenison.github.io
+# location: Some lab, office 777
+# email: noreply@noemail.com
+picture: img/SquareProfilePicture.png
+picture-round: true
 side-by-side: true
-pronouns: They/Them
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+# pronouns: They/Them
+og-picture: https://basicpage.github.io/img/SquareProfilePicture.png
+orcid: 0009-0006-6216-3763
+# dblp: https://dblp.org/
+scholar: https://scholar.google.com/citations?user=CTBwlC8AAAAJ
+# hal: https://hal.science/
+mastodon: https://mastodon.social/@IvanRenison
+github: IvanRenison
+# gitlab: gitlab
+# bitbucket: bitbucket.com
+# bluesky: https://bsky.app/
+# linkedin: https://www.linkedin.com/in/iv%C3%A1n-renison-2401b3261/
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
-
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
-
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
-
-# Publications
-
-## Conference papers
-
-``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
-"files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
-]
-```
-
-## Journal papers
-
-``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
-```
-
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
-
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
-
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
-```
-
-## Talks
-
-``` json {.papers}
-{
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
-}
-```
+I am a computer scientist, currently doing an internship at the Max Planck Institute for Security and Privacy with [Gilles Barthe](https://www.mpi-sp.org/barthe) as my supervisor.
 
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- [Degree in Computer Science](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n) at the National University of Córdoba.
 
-# Teaching
+# Competitive programming
 
-- I am teaching the TD sessions on the 👽 science course.
+- Participation in the *ICPC South America South regional programming contest*:
+  - [2024](https://icpc.global/regionals/finder/SouthAmerica-South-2025/): position 16 out of 187.
+  - [October 2023](https://icpc.global/regionals/finder/SouthAmerica-South-2024/): position 26 out of 152.
+  - [March 2023](https://icpc.global/regionals/finder/SouthAmerica-South-2023/): position 49 out of 105.
+- Participation in the *ICPC Torneo Argentino de Programación* (ICPC Argentine Programming Tournament):
+  - [2024](https://icpc.global/regionals/finder/TAP-2025): position 4 out of 155.
+  - [2023](https://icpc.global/regionals/finder/TAP-2024): position 8 out of 115.
+  - [2022](https://icpc.global/regionals/finder/TAP-2023): position 25 out of 79.
+  - [2021](https://icpc.global/regionals/finder/TAP-2022): position 31 out of 38.
+- Participation in [Training Camp Argentina](https://www.pc-arg.com/tc-arg/more_info) in 2024.
+- Teacher of competitive programming course at FAMAF in 2024.
+- Participation in multiple competitive programming contests on [Codeforces](https://codeforces.com/profile/IvanRenison) and [AtCoder](https://atcoder.jp/users/IvanRenison).
 
-# Community service
 
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
+# Courses and events
+
+- [Formalizing Mathematics in Lean](https://utrechtsummerschool.nl/courses/science/formalizing-mathematics-in-lean) at Utrecht Summer School 2025.
+
+- [RIO 2025 Summer School on Informatics](https://rio2025.dc.exa.unrc.edu.ar/):
+  - Program Verification with Isabelle/HOL (10 hours).
+  - Introduction to Computability Theory (10 hours).
+  - Programming Languages for Cybersecurity (10 hours).
+
+- Participation in [Cornell, Maryland, Max Planck Pre-doctoral Research School 2023](https://cmmrs2023.mpi-sws.org/).
+
+- [Informatics Sciences School 2022](https://eci.dc.uba.ar/ecis-anteriores/eci2022) at University of Buenos Aires in :
+  - Satellite imagery processing (15 hours)
+  - Quantum natural computing: from simulation to algorithms (15 hours).
