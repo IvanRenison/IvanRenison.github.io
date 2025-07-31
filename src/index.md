@@ -6,11 +6,11 @@ description-meta: Computer scientist
 og-url: https://IvanRenison.github.io
 # location: Some lab, office 777
 # email: noreply@noemail.com
-picture: img/SquareProfilePicture.png
+picture: img/profile.jpg
 picture-round: true
 side-by-side: true
 # pronouns: They/Them
-og-picture: https://basicpage.github.io/img/SquareProfilePicture.png
+og-picture: https://basicpage.github.io/img/profile.jpg
 orcid: 0009-0006-6216-3763
 # dblp: https://dblp.org/
 scholar: https://scholar.google.com/citations?user=CTBwlC8AAAAJ
