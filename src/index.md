@@ -33,7 +33,7 @@ I am a computer scientist very interested in proof assistants and the [Lean Proo
 
 # Academy
 
-- In 2025 I did a seven months internship at Max Planck Institute for Security and Privacy with #link("https://www.mpi-sp.org/barthe")[Gilles Barthe] as my supervisor.
+- In 2025 I did a seven months internship at Max Planck Institute for Security and Privacy with [Gilles Barthe](https://www.mpi-sp.org/barthe) as my supervisor.
   - My second project was about verification of probabilistic cryptographic code in Jasmin and EasyCrypt.
   - In my first project I worked on formalizing of the algebraic part of quantum computing in Lean.
 
@@ -44,7 +44,7 @@ I am a computer scientist very interested in proof assistants and the [Lean Proo
 # Competitive programming
 
 - Participation in the *ICPC South America South regional programming contest*:
-  - [2025]("https://icpc.global/regionals/finder/SouthAmerica-South-2026/"): position 11 out of 201.
+  - [2025](https://icpc.global/regionals/finder/SouthAmerica-South-2026/): position 11 out of 201.
   - [2024](https://icpc.global/regionals/finder/SouthAmerica-South-2025/): position 16 out of 187.
   - [October 2023](https://icpc.global/regionals/finder/SouthAmerica-South-2024/): position 26 out of 152.
   - [March 2023](https://icpc.global/regionals/finder/SouthAmerica-South-2023/): position 49 out of 105.
@@ -60,7 +60,7 @@ I am a computer scientist very interested in proof assistants and the [Lean Proo
 
 # Courses and events
 
-- Assisted to the #link("https://icetcs.github.io/frocos-itp-tableaux25/itp/")[16th International Conference on Interactive Theorem Proving].
+- Assisted to the [16th International Conference on Interactive Theorem Proving](https://icetcs.github.io/frocos-itp-tableaux25/itp/).
 
 - [Formalizing Mathematics in Lean](https://utrechtsummerschool.nl/courses/science/formalizing-mathematics-in-lean) at Utrecht Summer School 2025.
 
