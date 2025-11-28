@@ -33,7 +33,9 @@ I am a computer scientist very interested in proof assistants and the [Lean Proo
 
 # Academy
 
-In 2025 I did an internship at the Max Planck Institute for Security and Privacy with [Gilles Barthe](https://www.mpi-sp.org/barthe) as my supervisor.
+- In 2025 I did a seven months internship at Max Planck Institute for Security and Privacy with #link("https://www.mpi-sp.org/barthe")[Gilles Barthe] as my supervisor.
+  - My second project was about verification of probabilistic cryptographic code in Jasmin and EasyCrypt.
+  - In my first project I worked on formalizing of the algebraic part of quantum computing in Lean.
 
 # Education
 
