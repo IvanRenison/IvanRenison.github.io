@@ -29,7 +29,11 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a computer scientist, currently doing an internship at the Max Planck Institute for Security and Privacy with [Gilles Barthe](https://www.mpi-sp.org/barthe) as my supervisor.
+I am a computer scientist very interested in proof assistants and the [Lean Proof Assistant](https://lean-lang.org/) in particular.
+
+# Academy
+
+In 2025 I did an internship at the Max Planck Institute for Security and Privacy with [Gilles Barthe](https://www.mpi-sp.org/barthe) as my supervisor.
 
 # Education
 
@@ -38,6 +42,7 @@ I am a computer scientist, currently doing an internship at the Max Planck Insti
 # Competitive programming
 
 - Participation in the *ICPC South America South regional programming contest*:
+  - [2025]("https://icpc.global/regionals/finder/SouthAmerica-South-2026/"): position 11 out of 201.
   - [2024](https://icpc.global/regionals/finder/SouthAmerica-South-2025/): position 16 out of 187.
   - [October 2023](https://icpc.global/regionals/finder/SouthAmerica-South-2024/): position 26 out of 152.
   - [March 2023](https://icpc.global/regionals/finder/SouthAmerica-South-2023/): position 49 out of 105.
@@ -52,6 +57,8 @@ I am a computer scientist, currently doing an internship at the Max Planck Insti
 
 
 # Courses and events
+
+- Assisted to the #link("https://icetcs.github.io/frocos-itp-tableaux25/itp/")[16th International Conference on Interactive Theorem Proving].
 
 - [Formalizing Mathematics in Lean](https://utrechtsummerschool.nl/courses/science/formalizing-mathematics-in-lean) at Utrecht Summer School 2025.
 
