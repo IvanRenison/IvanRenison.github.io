@@ -29,7 +29,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a computer scientist very interested in proof assistants and the [Lean Proof Assistant](https://lean-lang.org/) in particular.
+I am a computer scientist very interested in proof assistants and the [Lean Proof Assistant](https://lean-lang.org/) in particular. I regularly contribute to [Mathlib](https://leanprover-community.github.io/), the Lean mathematical library, currently having over 40 merged [pull requests](https://github.com/search?q=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison&type=pullrequests&query=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison).
 
 # Academy
 
@@ -59,6 +59,8 @@ I am a computer scientist very interested in proof assistants and the [Lean Proo
 
 
 # Courses and events
+
+- Assisted to [Lean Together 2026]("https://leanprover-community.github.io/lt2026/").
 
 - Assisted to the [16th International Conference on Interactive Theorem Proving](https://icetcs.github.io/frocos-itp-tableaux25/itp/).
 
