@@ -31,6 +31,11 @@ footer: >-
 
 I am a computer scientist very interested in proof assistants and the [Lean Proof Assistant](https://lean-lang.org/) in particular. I regularly contribute to [Mathlib](https://leanprover-community.github.io/), the Lean mathematical library, currently having over 40 merged [pull requests](https://github.com/search?q=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison&type=pullrequests&query=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison).
 
+# Industry
+
+From December 2025 I am working as freelancer for [Cajal Technologies, Inc.](https://caj.al/) using the Lean proof assistant.
+
+
 # Academy
 
 - In 2025 I did a seven months internship at Max Planck Institute for Security and Privacy with [Gilles Barthe](https://www.mpi-sp.org/barthe) as my supervisor.
