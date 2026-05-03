@@ -33,8 +33,9 @@ I am a computer scientist very interested in proof assistants and the [Lean Proo
 
 # Industry
 
-From December 2025 I am working as freelancer for [Cajal Technologies, Inc.](https://caj.al/) using the Lean proof assistant.
+- Since mid April 2026 I'm working for [Marvell Technology, Inc.](https://www.marvell.com/).
 
+- From December 2025 to March 2026 I worked as freelancer for [Cajal Technologies, Inc.](https://caj.al/) using the Lean proof assistant.
 
 # Academy
 
