@@ -29,7 +29,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a computer scientist very interested in proof assistants and the [Lean Proof Assistant](https://lean-lang.org/) in particular. I regularly contribute to [Mathlib](https://leanprover-community.github.io/), the Lean mathematical library, currently having over 50 merged [pull requests](https://github.com/search?q=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison&type=pullrequests&query=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison).
+I am a computer scientist very interested in proof assistants and the [Lean Proof Assistant](https://lean-lang.org/) in particular. I regularly contribute to [Mathlib](https://leanprover-community.github.io/), the Lean mathematical library, currently having over 60 merged [pull requests](https://github.com/search?q=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison&type=pullrequests&query=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison).
 
 # Industry
 
