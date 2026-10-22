@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: Iván Renison homepage
 author: Iván Renison
 shortbio: PhD student at the University of Southampton
@@ -32,35 +31,35 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a PhD student in Computer Science at the University of Southampton very interested in proof assistants and the [Lean Proof Assistant](https://lean-lang.org/) in particular. I regularly contribute to [Mathlib](https://leanprover-community.github.io/), the Lean mathematical library, currently having over 60 merged [pull requests](https://github.com/search?q=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison&type=pullrequests&query=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison).
+I am a PhD student in Computer Science at the University of Southampton very interested in proof assistants and [**Lean**](https://lean-lang.org/) in particular. I regularly contribute to [Mathlib](https://leanprover-community.github.io/), the Lean mathematical library, currently having over 60 merged [pull requests](https://github.com/search?q=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison&type=pullrequests&query=repo%3Aleanprover-community%2Fmathlib4+is%3Apr+author%3AIvanRenison).
 
 # Education
 
 - Currently doing a *PhD in Computer Science* at the University of Southampton (mid-September 2026 - present):
-  - Topic: Verification of Neuro-Cyber-Physical Systems with Vehicle and Lean.
-  - Supervised by #link("https://www.southampton.ac.uk/people/62r7bw/professor-ekaterina-komendantskaya")[Ekaterina Komendantskaya].
+  - Topic: Verification of Neuro-Cyber-Physical Systems with Vehicle and **Lean**.
+  - Supervised by [Ekaterina Komendantskaya](https://www.southampton.ac.uk/people/62r7bw/professor-ekaterina-komendantskaya).
 
 - [Degree in Computer Science](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n) at the National University of Córdoba.
 
 # Work experience
 
-- From mid-April 2026 to mid-September 2026, I worked on the Forward Error Correction team for #link("https://www.marvell.com/")[Marvell Technology, Inc.] in Córdoba, Argentina.
+- From mid-April 2026 to mid-September 2026, I worked on the Forward Error Correction team for [Marvell Technology, Inc.](https://www.marvell.com/) in Córdoba, Argentina.
 
-- From December 2025 to March 2026, I did some works as freelancer for #link("https://caj.al/")[Cajal Technologies, Inc.] using the *Lean* proof assistant.
+- From December 2025 to March 2026, I did some works as freelancer for [Cajal Technologies, Inc.](https://caj.al/) using **Lean**.
 
-- In 2025 I did a seven months internship at #link("https://www.mpi-sp.org/")[Max Planck Institute for Security and Privacy] with #link("https://www.mpi-sp.org/barthe")[Gilles Barthe] as my supervisor.
+- In 2025 I did a seven months internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) with [Gilles Barthe](https://www.mpi-sp.org/barthe) as my supervisor.
   - My second project was about verification of probabilistic cryptographic code in Jasmin and EasyCrypt.
-  - In my first project I worked on formalizing of the algebraic part of quantum computing in *Lean*.
+  - In my first project I worked on formalizing of the algebraic part of quantum computing in **Lean**.
   During the internship I additionally deepened my general knowledge about verification and cybersecurity.
 
 # Competitive programming
 
-- Participation in the *ICPC South America South regional programming contest*:
+- Participation in the **ICPC South America South regional programming contest**:
   - [2025](https://icpc.global/regionals/finder/SouthAmerica-South-2026/): position 11 out of 201.
   - [2024](https://icpc.global/regionals/finder/SouthAmerica-South-2025/): position 16 out of 187.
   - [October 2023](https://icpc.global/regionals/finder/SouthAmerica-South-2024/): position 26 out of 152.
   - [March 2023](https://icpc.global/regionals/finder/SouthAmerica-South-2023/): position 49 out of 105.
-- Participation in the *ICPC Torneo Argentino de Programación* (ICPC Argentine Programming Tournament):
+- Participation in the **ICPC Torneo Argentino de Programación** (ICPC Argentine Programming Tournament):
   - [2024](https://icpc.global/regionals/finder/TAP-2025): position 4 out of 155.
   - [2023](https://icpc.global/regionals/finder/TAP-2024): position 8 out of 115.
   - [2022](https://icpc.global/regionals/finder/TAP-2023): position 25 out of 79.
@@ -72,7 +71,7 @@ I am a PhD student in Computer Science at the University of Southampton very int
 
 # Courses and events
 
-- Assisted to [Lean Together 2026]("https://leanprover-community.github.io/lt2026/").
+- Assisted to [Lean Together 2026](https://leanprover-community.github.io/lt2026/).
 
 - Assisted to the [16th International Conference on Interactive Theorem Proving](https://icetcs.github.io/frocos-itp-tableaux25/itp/).
 
