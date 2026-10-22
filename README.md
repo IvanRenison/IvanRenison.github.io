@@ -2,17 +2,22 @@
 
 **Template for a basic academic page that is ready to use and easy to customise.**
 
-<img width="1440" alt="Screenshot 2024-11-02 at 19 39 34" src="https://github.com/user-attachments/assets/34d4b1f7-3212-4081-b9aa-ded0d0963d89">
+<img width="1440" alt="Screenshot of desktop version" src="https://github.com/user-attachments/assets/34d4b1f7-3212-4081-b9aa-ded0d0963d89">
 
 It is also **responsive** by default!
 
-<img width="334" alt="Screenshot 2024-11-02 at 19 43 24" src="https://github.com/user-attachments/assets/d5efbc5b-0385-4640-9397-563396400c55">
+<img width="334" alt="Screenshot of the mobile version" src="https://github.com/user-attachments/assets/d5efbc5b-0385-4640-9397-563396400c55">
+
+Basicpage supports dark mode by default as well.
+
+<img width="1189" height="811" alt="Screenshot of the dark mode version" src="https://github.com/user-attachments/assets/2321ebd0-e5c0-4db6-bb70-67de15a35697" />
 
 It relies on [FontAwesome](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/) to display nice icons.
 
 It is close in style to
 [academicpages](https://github.com/academicpages/academicpages.github.io)
 but is entirely independent.
+
 
 ## Getting started
 
@@ -28,12 +33,12 @@ but is entirely independent.
 
 - Now go to the repository "Settings" then click "Pages" on the left and select
   "Github Actions" instead of "Deploy from a branch" for "Source".
-  
-  <img width="837" alt="Screenshot 2024-11-27 at 16 51 07" src="https://github.com/user-attachments/assets/7219187c-7370-42dd-a9cf-c7559072b42f">
 
-  <img width="304" alt="Screenshot 2024-11-27 at 16 52 45" src="https://github.com/user-attachments/assets/9af6698f-2c47-422f-8dff-61ee3629089e">
+  <img width="837" alt="Screenshot of clicking on settings" src="https://github.com/user-attachments/assets/7219187c-7370-42dd-a9cf-c7559072b42f">
 
-  <img width="243" alt="Screenshot 2024-11-27 at 16 52 59" src="https://github.com/user-attachments/assets/ac68143a-8e3b-4cca-9030-ae0af77d898f">
+  <img width="304" alt="Screenshot, clicking on pages" src="https://github.com/user-attachments/assets/9af6698f-2c47-422f-8dff-61ee3629089e">
+
+  <img width="243" alt="Screenshot, selecting Github Actions for page deployment" src="https://github.com/user-attachments/assets/ac68143a-8e3b-4cca-9030-ae0af77d898f">
 
 
 - Fill the contents of `index.md` to your liking and it should just work.
@@ -62,6 +67,9 @@ We give the semantics of the various fields (all of whom are optional).
   words. It will appear below your name.
 
 - `email`: Your email. It will appear next to an envelope in monospace font.
+  - `clickable-email`: A Boolean deciding whether your email should be a
+    `mailto:` hyperlink, allowing users to open it in their email client by
+    clicking on it. By default, it is `false` (no clickable links).
 
 - `location`: Information about your location (university, office, …).
   It will appear next to a pin icon.
@@ -79,9 +87,15 @@ We give the semantics of the various fields (all of whom are optional).
 - `pronouns`: A string to show your pronouns.
 
 - `footer`: Some data to put in the footer of the page. You can use it to put
-  some disclaimer, or maybe to advertise basicpage. ☺️
+  some disclaimer, or maybe to advertise `basicpage`. ☺️
   If nothing is provided, then the footer doesn't appear, and thus the
   horizontal that precedes is will not show either.
+
+- `disable-dark-mode`: A Boolean deciding whether the page automatically
+  switches to dark mode based on browser settings. It will load the `dark.css`
+  CSS file.
+  By default, this setting is `false`, meaning dark mode will automatically
+  activate.
 
 ### OpenGraph
 
@@ -177,6 +191,8 @@ assume them to be empty otherwise), while the other fields (`venue`, `year`,
 
 - `title`: Title of your paper. Will be used as header of the block.
 - `authors`: List of authors.
+- `awards` (optional, string or list of string): Award(s) that your paper may
+  have received.
 - `venue` (optional): Journal or conference.
 - `year` (optional): Date of the conference, if present it is going to be in
   parentheses after the venue (unless the venue is absent in which case it
@@ -203,6 +219,22 @@ assume them to be empty otherwise), while the other fields (`venue`, `year`,
     * `slides`
     * `link`
     * `git`
+
+## Staying up-to-date with Dependabot
+
+There is no way to sync your repo with the template so you would need to manually 
+import new features from here.
+However, there is at least a way to keep your repo up-to-date with respect to
+Github Pages by using Dependabot.
+
+For this, go to the settings of your repository, select "Advanced security":
+
+<img width="326" height="175" alt="Advanced security link screenshot" src="https://github.com/user-attachments/assets/20736fd4-3b72-47b1-ada0-4ccb4e5e9e7e" />
+
+and then enable security updates:
+
+<img width="767" height="97" alt="Screenshot showing enabled security updates with dependabot" src="https://github.com/user-attachments/assets/4aa04354-77d6-41aa-bad9-c2cb10b4c069" />
+
 
 ## Updating the HTML template
 

@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Iván Renison homepage
 author: Iván Renison
 shortbio: Computer scientist
@@ -6,9 +7,11 @@ description-meta: Computer scientist
 og-url: https://IvanRenison.github.io
 # location: Some lab, office 777
 # email: noreply@noemail.com
+# clickable-email: false
 picture: img/profile.jpg
 picture-round: true
 side-by-side: true
+disable-dark-mode: false
 # pronouns: They/Them
 og-picture: https://basicpage.github.io/img/profile.jpg
 orcid: 0009-0006-6216-3763
@@ -85,4 +88,3 @@ I am a computer scientist very interested in proof assistants and the [Lean Proo
 - [Informatics Sciences School 2022](https://eci.dc.uba.ar/ecis-anteriores/eci2022) at University of Buenos Aires:
   - Satellite imagery processing.
   - Quantum natural computing: from simulation to algorithms.
-
